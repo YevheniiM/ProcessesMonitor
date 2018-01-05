@@ -1,0 +1,20 @@
+c:\users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\bin\Debug\ProcessesMonitor.exe.config
+c:\users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\bin\Debug\ProcessesMonitor.exe
+c:\users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\bin\Debug\ProcessesMonitor.pdb
+c:\users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.csprojResolveAssemblyReference.cache
+c:\users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.Properties.Resources.resources
+c:\users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.csproj.GenerateResource.Cache
+c:\users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.csproj.CoreCompileInputs.cache
+c:\users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.exe
+c:\users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.pdb
+c:\users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.MainForm.resources
+J:\My projects\_Freelance\ProcessesMonitor\ProcessesMonitor\bin\Debug\ProcessesMonitor.exe.config
+J:\My projects\_Freelance\ProcessesMonitor\ProcessesMonitor\bin\Debug\ProcessesMonitor.exe
+J:\My projects\_Freelance\ProcessesMonitor\ProcessesMonitor\bin\Debug\ProcessesMonitor.pdb
+J:\My projects\_Freelance\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.csprojResolveAssemblyReference.cache
+J:\My projects\_Freelance\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.MainForm.resources
+J:\My projects\_Freelance\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.Properties.Resources.resources
+J:\My projects\_Freelance\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.csproj.GenerateResource.Cache
+J:\My projects\_Freelance\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.csproj.CoreCompileInputs.cache
+J:\My projects\_Freelance\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.exe
+J:\My projects\_Freelance\ProcessesMonitor\ProcessesMonitor\obj\Debug\ProcessesMonitor.pdb

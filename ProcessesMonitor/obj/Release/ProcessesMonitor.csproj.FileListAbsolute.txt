@@ -1,0 +1,10 @@
+C:\Users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\bin\Release\ProcessesMonitor.exe.config
+C:\Users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\bin\Release\ProcessesMonitor.exe
+C:\Users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\bin\Release\ProcessesMonitor.pdb
+C:\Users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Release\ProcessesMonitor.csprojResolveAssemblyReference.cache
+C:\Users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Release\ProcessesMonitor.MainForm.resources
+C:\Users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Release\ProcessesMonitor.Properties.Resources.resources
+C:\Users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Release\ProcessesMonitor.csproj.GenerateResource.Cache
+C:\Users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Release\ProcessesMonitor.csproj.CoreCompileInputs.cache
+C:\Users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Release\ProcessesMonitor.exe
+C:\Users\moroz.y\source\repos\ProcessesMonitor\ProcessesMonitor\obj\Release\ProcessesMonitor.pdb
