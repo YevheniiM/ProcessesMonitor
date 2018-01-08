@@ -19,7 +19,7 @@ If there is new process, or some process has finished - the program will inform 
 
 ![Image alt](https://github.com/YevheniiMoroz/ProcessesMonitor/blob/master/Templates/3.png)
 
-If user enter the Id, so only one process will be added:
+If user enters the Id, so only one process will be added:
 
 ![Image alt](https://github.com/YevheniiMoroz/ProcessesMonitor/blob/master/Templates/4.png)
 
